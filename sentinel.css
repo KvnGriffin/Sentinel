@@ -1,0 +1,23 @@
+#top {
+       background-color: #F2F2F2;
+	   padding: 0.5em;
+	   text-align: center;
+	   border-style: solid;
+       border-width: 1px;
+       border-color: #BDBDBD;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif; 
+    font-size: 3em; 
+    font-weight: bold; 
+    color: #0000FF;
+}
+    
+
+body {
+       background-color: #FAFAFA;
+       font-size: 1em;     
+}
+
+
